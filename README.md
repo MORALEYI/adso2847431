@@ -1,17 +1,15 @@
-#  adso2847431
-## ANALISIS Y DESARROLO DE SOFTWARE 
-### Centro de procesos industriales y construccion
+# ==Adso2847431==
+## Analisis y desarrolo de software
+### centro de procesos industriales y construcciones
 
----
+![Deadpool](https://tinyurl.com/4dsxs54x)
 
-![Kokushibo](https://tinyurl.com/9924a5zh)
-
-| # | Topic     | Description       |
-|---|---        |---                |
-|01 |JavasCript |JS Vanilla Onjects |
-
-[Files Drive ADSO](https://tinyurl.com/58a6kfpe)
-  vercel link(https://adso2847431xdxd.vercel.app/)
+|#  |Topic      |Descripcion       |
+|---|---        |---               |
+|01 |Javascript |JS Vanilla Objects|
 
 
-
+[File Drive ADSO](https://tinyurl.com/4657t2vw)
+|#  |Topic      |Descripcion       |
+|---|---        |---               |
+|01 |linkVercel |
